@@ -1,0 +1,23 @@
+// fonts
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300&family=Open+Sans+Condensed:wght@700&display=swap');
+
+// body
+html, body{
+    font-family: 'Dosis', sans-serif;
+    color: white;
+}
+
+// scrollbar
+::-webkit-scrollbar {
+    background-color: rgba(17,17,17,0.5);
+    transition: background-color 3s ease-in;
+}
+::-webkit-scrollbar-thumb {
+    background:rgb(195, 34, 96);
+    border-radius: 5px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5);
+    box-shadow: darken($color: #000000, $amount: 0); 
+}
+::-webkit-scrollbar-thumb:hover{
+    background: rgb(85, 15, 42);
+}
