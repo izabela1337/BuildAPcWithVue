@@ -35,4 +35,12 @@ export default {
     transition: transform .3s ease-in;
     transform: scale(1.2);
 }
+.infoBox{
+    background: rgba(25, 25, 25, 0.5);
+    border-radius: 10px;
+    margin: 10px;
+    color: white;
+    font-family: 'Dosis', sans-serif;
+    border-color: black;
+}
 </style>

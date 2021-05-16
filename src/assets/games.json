@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "title": "Minecraft",
+        "demandValue": 0.56
+    },
+    {
+        "id": 2,
+        "title": "League of Legends",
+        "demandValue": 0.43
+    },
+    {
+        "id": 3,
+        "title": "Counter-Strike: Global Offensive",
+        "demandValue": 0.66
+    },
+    {
+        "id": 4,
+        "title" : "Call of Duty: Modern Warfare/Warzone",
+        "demandValue": 1.13
+    },
+    {
+        "id": 5,
+        "title": "Valorant",
+        "demandValue": 0.74 
+    },
+    {
+        "id": 6,
+        "title": "Grand Theft Auto V",
+        "demandValue": 0.81
+    },
+    {
+        "id": 7,
+        "title": "ROBLOX",
+        "demandValue": 0.36
+    },
+    {
+        "id": 8,
+        "title": "Fortnite",
+        "demandValue": 0.84
+    },
+    {
+        "id": 9,
+        "title": "Apex Legends",
+        "demandValue": 0.88
+    },
+    {
+        "id": 10,
+        "title": "Rocket League",
+        "demandValue": 0.61
+    },
+    {
+        "id": 11,
+        "title": "Among Us",
+        "demandValue": 0.12
+    },
+    {
+        "id": 12,
+        "title": "World of Warcraft",
+        "demandValue": 0.62
+    },
+    {
+        "id": 13,
+        "title": "Battlefield 5",
+        "demandValue": 1
+    },
+    {
+        "id": 14,
+        "title": "Tibia",
+        "demandValue": 0.02
+    }
+]

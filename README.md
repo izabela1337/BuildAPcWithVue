@@ -1,5 +1,5 @@
 # buildapcwithvue  
-simple project aimed to simplyfy the process of choosing pc components while educating users  
+simple project aimed to simplify the process of choosing pc components while educating users  
 
 # TODO  
 - Add modals for components in /introduction  
