@@ -1,6 +1,22 @@
 [
     {
         "name": "RX 6700XT",
-        "price": 
+        "price": 479,
+        "maxfps": 120
+    },
+    {
+        "name": "RX 6800",
+        "price": 579,
+        "maxfps": 147
+    },
+    {
+        "name":"RX 6800XT",
+        "price": 699,
+        "maxfps": 155
+    },
+    {
+        "name":"RX 6900XT",
+        "price": 999,
+        "maxfps": 180
     }
 ]

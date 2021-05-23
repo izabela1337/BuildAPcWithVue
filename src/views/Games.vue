@@ -10,16 +10,21 @@
 
             </div>
         </div>
+    <overlay />
     </div>
 </template>
 <script>
 import gameData from '@/assets/games.json'
+import overlay from "@/components/overlay.vue";
 
 export default {
     data(){
         return{
             games: gameData
         }
+    },
+    components: {
+        overlay
     }
 }
 </script>

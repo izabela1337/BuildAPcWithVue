@@ -10,14 +10,20 @@
                 </button>
             </div>
         </div>
+    <overlay />
     </div>
 </template>
 <script>
+import overlay from "@/components/overlay.vue";
+
 export default {
     data(){
         return{
             resolutions: ["720p", "1080p", "1440p", "4K"]
         }
+    },
+    components: {
+        overlay
     }
 }
 </script>

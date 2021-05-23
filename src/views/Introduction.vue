@@ -15,6 +15,7 @@
       <caseIntro />
       <diskIntro />
     </div>
+    <overlay />
   </div>
 </template>
 <script>
@@ -25,6 +26,7 @@ import powerSupplyIntro from "@/components/componentsIntro/powerSupplyIntro.vue"
 import ramIntro from "@/components/componentsIntro/ramIntro.vue";
 import caseIntro from "@/components/componentsIntro/caseIntro.vue";
 import diskIntro from "@/components/componentsIntro/diskIntro.vue";
+import overlay from "@/components/overlay.vue";
 
 export default {
   components: {
@@ -34,7 +36,8 @@ export default {
     powerSupplyIntro,
     ramIntro,
     caseIntro,
-    diskIntro
+    diskIntro,
+    overlay
   }
 }
 </script>

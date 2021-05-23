@@ -1,22 +1,22 @@
 [
     {
-        "name": "Ryzen 5 1600F",
-        "price": 160,
+        "name": "Ryzen 5 1600AF",
+        "price": 99,
         "maxfps": 84
     },
     {
         "name": "Ryzen 5 2600",
-        "price": 200,
+        "price": 199,
         "maxfps": 96
     },
     {
         "name": "Ryzen 5 3600XT",
-        "price": 269,
+        "price": 366,
         "maxfps": 130
     },
     {
         "name": "Ryzen 7 3800X",
-        "price": 329,
+        "price": 399,
         "maxfps": 169
     },
     {
